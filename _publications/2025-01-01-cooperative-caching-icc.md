@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/cooperative-caching-icc
 excerpt: "Cooperative caching framework for efficient spectrum utilization in cognitive-IoT networks."
-date: 2025
+date: 2025-01-01
 venue: "IEEE ICC 2025"
 paperurl: "https://ieeexplore.ieee.org/document/11160803"
 arxivurl: "https://arxiv.org/abs/2512.14029"
