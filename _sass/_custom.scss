@@ -8,6 +8,18 @@ body {
   color: var(--text-dark);
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("/images/background.png");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.06;
+  z-index: -1;
+  pointer-events: none;
+}
+
 a {
   color: var(--accent);
 }
@@ -27,7 +39,7 @@ a:hover {
   margin-bottom: 1.5rem;
   border: 1px solid #e6eef2;
   border-radius: 14px;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.86);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
 }
 
@@ -36,13 +48,9 @@ a:hover {
 }
 
 .sidebar {
-  border-right: 1px solid #eef2f4;
+  background: rgba(255, 255, 255, 0.72);
 }
 
-.author__name {
-  color: var(--text-dark);
-}
-
-.btn, .btn--primary {
-  background-color: var(--accent);
+.page {
+  background: rgba(255, 255, 255, 0.72);
 }
