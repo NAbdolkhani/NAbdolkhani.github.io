@@ -15,10 +15,6 @@ citation: 'N. Abdolkhani and W. Hamouda, "Cooperative Caching Towards Efficient 
 
 In cognitive Internet of Things (CIoT) networks, efficient spectrum sharing is essential to address increasing wireless demands. This paper presents a novel deep reinforcement learning (DRL)-based approach for joint cooperative caching and spectrum access coordination in CIoT networks, enabling the CIoT agents to collaborate with primary users (PUs) by caching PU content and serving their requests, fostering mutual benefits. The proposed DRL framework jointly optimizes caching policy and spectrum access under challenging conditions. Unlike traditional cognitive radio (CR) methods, where CIoT agents vacate the spectrum for PUs, or relaying techniques, which merely support spectrum sharing, caching brings data closer to the edge, reducing latency by minimizing retrieval distance. Simulations demonstrate that our approach outperforms others in lowering latency, increasing CIoT and PU cache hit rates, and enhancing network throughput. This approach redefines spectrum sharing, offering a fresh perspective on CIoT network design and illustrating the potential of DRLguided caching to highlight the benefits of collaboration over dynamic spectrum access scenarios, elevating CIoT performance under constrained resources.
 
-## Links
-
-- [IEEE Official Publication](https://ieeexplore.ieee.org/document/11160803)
-- [arXiv Preprint](https://arxiv.org/abs/2512.14029)
 
 ## BibTeX
 
