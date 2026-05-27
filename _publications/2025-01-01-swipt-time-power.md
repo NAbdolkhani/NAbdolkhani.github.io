@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/swipt-time-power
 excerpt: "Deep reinforcement learning framework for joint time allocation and power management in SWIPT-enabled CIoT systems."
-date: 2025-01-01
+date: 2025-04-01
 venue: "IEEE Communications Letters"
 paperurl: "https://ieeexplore.ieee.org/document/10857304"
 arxivurl: "https://arxiv.org/abs/2512.15062"
