@@ -1,0 +1,48 @@
+:root {
+  --accent: #1f9fbf;
+  --accent-soft: #eef9fc;
+  --text-dark: #2f3a40;
+}
+
+body {
+  color: var(--text-dark);
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: #176f86;
+}
+
+.page__title {
+  border-bottom: 3px solid var(--accent);
+  display: inline-block;
+  padding-bottom: 0.2rem;
+}
+
+.archive__item {
+  padding: 1.2rem 1.4rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid #e6eef2;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+}
+
+.archive__item-title a {
+  color: var(--accent);
+}
+
+.sidebar {
+  border-right: 1px solid #eef2f4;
+}
+
+.author__name {
+  color: var(--text-dark);
+}
+
+.btn, .btn--primary {
+  background-color: var(--accent);
+}
