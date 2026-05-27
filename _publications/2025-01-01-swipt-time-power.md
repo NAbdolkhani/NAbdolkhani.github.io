@@ -15,10 +15,6 @@ citation: 'N. Abdolkhani, N. Abdel Khalek, W. Hamouda and I. Dayoub, "Deep Reinf
 
 This letter presents a novel deep reinforcement learning (DRL) approach for joint time allocation and power control in a cognitive Internet of Things (CIoT) system with simultaneous wireless information and power transfer (SWIPT). The CIoT transmitter autonomously manages energy harvesting (EH) and transmissions using a learnable time switching factor while optimizing power to enhance throughput and lifetime. The joint optimization is modeled as a Markov decision process under small-scale fading, realistic EH, and interference constraints. We develop a double deep Q-network (DDQN) enhanced with an upper confidence bound. Simulations benchmark our approach, showing superior performance over existing DRL methods.
 
-## Links
-
-- [IEEE Official Publication](https://ieeexplore.ieee.org/document/10857304)
-- [arXiv Preprint](https://arxiv.org/abs/2512.15062)
 
 ## BibTeX
 
