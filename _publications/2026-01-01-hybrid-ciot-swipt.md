@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/hybrid-ciot-swipt
 excerpt: "Hierarchical reinforcement learning framework for cooperative caching and SWIPT-enabled cognitive IoT systems."
-date: 2026-01-01
+date: 2026-02-01
 venue: "IEEE Internet of Things Journal"
 paperurl: "https://ieeexplore.ieee.org/document/11245504"
 arxivurl: "https://arxiv.org/abs/2512.14488"
