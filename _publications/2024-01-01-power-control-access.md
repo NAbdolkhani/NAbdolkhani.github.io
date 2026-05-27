@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/power-control-access
 excerpt: "Deep reinforcement learning framework for joint power control and wireless access coordination in energy harvesting CIoT systems."
-date: 2024-01-01
+date: 2024-10-01
 venue: "IEEE Internet of Things Journal"
 paperurl: "https://ieeexplore.ieee.org/document/10601690"
 citation: 'N. A. Khalek, N. Abdolkhani and W. Hamouda, "Deep Reinforcement Learning for Joint Power Control and Access Coordination in Energy Harvesting CIoT," in IEEE Internet of Things Journal, vol. 11, no. 19, pp. 30833-30846, 1 Oct.1, 2024, doi: 10.1109/JIOT.2024.3416371.'
