@@ -15,10 +15,6 @@ citation: 'N. Abdolkhani, N. A. Khalek and W. Hamouda, "Deep Reinforcement Learn
 
 In the evolving landscape of the Internet of Things (IoT), integrating cognitive radio (CR) has become a practical solution to address the challenge of spectrum scarcity, leading to the development of Cognitive IoT (CIoT). However, the vulnerability of radio communications makes radio jamming attacks a key concern in CIoT networks. In this article, we introduce a novel deep reinforcement learning (DRL) approach designed to optimize throughput and extend network lifetime of an energy-constrained CIoT system under jamming attacks. This DRL framework equips a CIoT device with the autonomy to manage energy harvesting (EH) and data transmission, while also regulating its transmit power to respect spectrum-sharing constraints. We formulate the optimization problem under various constraints, and we model the CIoT device’s interactions within the channel as a model-free Markov decision process (MDP). The MDP serves as a foundation to develop a double deep Q-network (DDQN), designed to help the CIoT agent learn the optimal communication policy to navigate challenges, such as dynamic channel occupancy, jamming attacks, and channel fading while achieving its goal. Additionally, we introduce a variant of the upper confidence bound (UCB) algorithm, named UCB interference-aware (UCB-IA), which enhances the CIoT network’s ability to efficiently navigate jamming attacks within the channel. The proposed DRL algorithm does not rely on prior knowledge and uses locally observable information, such as channel occupancy, jamming activity, channel gain, and energy arrival to make decisions. Extensive simulations prove that our proposed DRL algorithm that utilizes the UCB-IA strategy surpasses existing benchmarks, allowing for a more adaptive, energy-efficient, and secure spectrum sharing in CIoT networks.
 
-## Links
-
-- [IEEE Official Publication](https://ieeexplore.ieee.org/document/10673973)
-- [arXiv Preprint](https://arxiv.org/abs/2512.15558)
 
 ## BibTeX
 
