@@ -15,10 +15,6 @@ citation: 'N. Abdolkhani and W. Hamouda, "Hierarchical Deep Reinforcement Learni
 
 In this paper, we address the challenge of dynamic spectrum access in a cognitive Internet of Things (CIoT) network where a secondary user (SU) operates under both energy constraints and adversarial interference from a smart jammer. The SU coexists with primary users (PUs) and must ensure that its transmissions do not exceed a predefined interference threshold on licensed channels. At each time slot, the SU must jointly determine whether to transmit or harvest energy, which channel to access, and the appropriate transmit power while satisfying energy and interference constraints. Meanwhile, a smart jammer actively selects a channel to disrupt, aiming to degrade the SU’s communication performance. This setting presents a significant challenge due to its multi-level decision structure and hybrid action space, which combines both discrete and continuous decisions. To tackle this, we propose a novel Hierarchical Deep Deterministic Policy Gradient (H-DDPG) framework that decomposes the decision-making process into three levels: the high-level policy determines the mode (transmit or harvest), the mid-level policy selects the channel, and the low-level actor outputs a continuous power level. Concurrently, the jammer is modeled as a reinforcement learning agent that learns an adaptive channel jamming strategy using a discrete variant of DDPG. Simulation results show that our H-DDPG approach outperforms conventional flat reinforcement learning baselines.
 
-## Links
-
-- [IEEE Official Publication](https://ieeexplore.ieee.org/document/11431821)
-- [arXiv Preprint](https://arxiv.org/abs/2512.14013)
 
 ## BibTeX
 
