@@ -1,23 +1,14 @@
 :root {
   --accent: #1f9fbf;
-  --accent-soft: #eef9fc;
+  --accent-dark: #176f86;
+  --bg-soft: #f7fbfc;
+  --card-bg: rgba(255, 255, 255, 0.92);
   --text-dark: #2f3a40;
 }
 
 body {
+  background: linear-gradient(135deg, #f7fbfc 0%, #eef8fb 45%, #ffffff 100%);
   color: var(--text-dark);
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background-image: url("/images/background.png");
-  background-size: cover;
-  background-position: center;
-  opacity: 0.06;
-  z-index: -1;
-  pointer-events: none;
 }
 
 a {
@@ -25,7 +16,7 @@ a {
 }
 
 a:hover {
-  color: #176f86;
+  color: var(--accent-dark);
 }
 
 .page__title {
@@ -37,9 +28,9 @@ a:hover {
 .archive__item {
   padding: 1.2rem 1.4rem;
   margin-bottom: 1.5rem;
-  border: 1px solid #e6eef2;
+  border: 1px solid #e2eef2;
   border-radius: 14px;
-  background: rgba(255, 255, 255, 0.86);
+  background: var(--card-bg);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
 }
 
@@ -47,10 +38,7 @@ a:hover {
   color: var(--accent);
 }
 
-.sidebar {
-  background: rgba(255, 255, 255, 0.72);
-}
-
+.sidebar,
 .page {
-  background: rgba(255, 255, 255, 0.72);
+  background: rgba(255, 255, 255, 0.78);
 }
