@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/eh-ciot-jamming
 excerpt: "Deep reinforcement learning framework for energy harvesting-enabled cognitive IoT systems under jamming attacks."
-date: 2024-12-01
+date: 2024-12-15
 venue: "IEEE Internet of Things Journal"
 paperurl: "https://ieeexplore.ieee.org/document/10673973"
 arxivurl: "https://arxiv.org/abs/2512.15558"
