@@ -16,7 +16,7 @@ The Internet of Things (IoT) has attracted a lot of interest owing to its variou
 
 ## Links
 
-- [IEEE Official Publication]([https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=nadia%20abdolkhani](https://ieeexplore.ieee.org/document/10601690))
+- [IEEE Official Publication](https://ieeexplore.ieee.org/document/10601690)
 
 ## BibTeX
 
