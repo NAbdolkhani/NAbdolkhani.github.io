@@ -15,10 +15,6 @@ citation: 'N. Abdolkhani and W. Hamouda, "Hybrid Cognitive IoT With Cooperative 
 
 This article proposes a hierarchical deep reinforcement learning (DRL) framework based on the soft actor–critic (SAC) algorithm for hybrid underlay–overlay cognitive Internet of Things (CIoT) networks with simultaneous wireless information and power transfer (SWIPT)-energy harvesting (EH) and cooperative caching. Unlike prior hierarchical DRL approaches that focus primarily on spectrum access or power control, our work jointly optimizes EH, hybrid access coordination, power allocation, and caching in a unified framework. The joint optimization problem is formulated as a weighted-sum multiobjective task, designed to maximize throughput and cache hit ratio while simultaneously minimizing transmission delay. In the proposed model, CIoT agents jointly optimize EH and data transmission using a learnable time switching (TS) factor. They also coordinate spectrum access under hybrid overlay–underlay paradigms and make power control and cache placement decisions while considering energy, interference, and storage constraints. Specifically, in this work, cooperative caching is used to enable overlay access, while power control is used for underlay access. A novel three-level hierarchical SAC (H-SAC) agent decomposes the mixed discrete-continuous action space into modular subproblems, improving scalability and convergence over flat DRL methods. The high-level policy adjusts the TS factor, the mid-level policy manages spectrum access coordination and cache sharing, and the low-level policy decides transmit power and caching actions for both the CIoT agent and PU content. Simulation results show that the proposed H-SAC approach significantly outperforms benchmark and greedy strategies. It achieves better performance in terms of average sum rate (ASR), delay, cache hit ratio, and energy efficiency (EE), even under channel fading and uncertain conditions.
 
-## Links
-
-- [IEEE Official Publication](https://ieeexplore.ieee.org/document/11245504)
-- [arXiv Preprint](https://arxiv.org/abs/2512.14488)
 
 ## BibTeX
 
