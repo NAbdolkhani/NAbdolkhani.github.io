@@ -1,0 +1,30 @@
+---
+title: "Optimal Caching Policy for D2D Assisted Cellular Networks With Different Cache Size Devices"
+collection: publications
+category: manuscripts
+permalink: /publication/d2d-caching
+excerpt: "Optimization-based caching framework for D2D-assisted cellular networks with heterogeneous cache sizes."
+date: 2022-01-01
+venue: "IEEE Access"
+paperurl: "https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=nadia%20abdolkhani"
+citation: 'N. Abdolkhani, M. Eslami, J. Haghighat, and W. Hamouda, "Optimal Caching Policy for D2D Assisted Cellular Networks With Different Cache Size Devices," IEEE Access, 2022.'
+---
+
+## Abstract
+
+This work proposes an optimization-based caching framework for D2D-assisted cellular networks with heterogeneous cache size devices to reduce backhaul traffic and improve content delivery efficiency.
+
+## Links
+
+- [IEEE Official Publication](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=nadia%20abdolkhani)
+
+## BibTeX
+
+```bibtex
+@article{abdolkhani2022d2d,
+  title={Optimal Caching Policy for D2D Assisted Cellular Networks With Different Cache Size Devices},
+  author={Abdolkhani, Nadia and Eslami, Mohsen and Haghighat, Javad and Hamouda, Walaa},
+  journal={IEEE Access},
+  year={2022}
+}
+```
