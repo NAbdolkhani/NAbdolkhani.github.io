@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/hierarchical-drl-jamming
 excerpt: "Hierarchical deep reinforcement learning for robust wireless access under smart jamming attacks."
-date: 2025-01-01
+date: 2025
 venue: "IEEE GLOBECOM 2025"
 paperurl: "https://ieeexplore.ieee.org/document/11431821"
 arxivurl: "https://arxiv.org/abs/2512.14013"
