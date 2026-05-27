@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 Welcome! I am a postdoctoral researcher working on AI-native future wireless networks, intelligent communication systems, and reinforcement learning for next-generation wireless environments.
 
 My research focuses on the intersection of artificial intelligence and wireless communications, including:
